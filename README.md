@@ -1,6 +1,6 @@
 # Every day with Maira
  All that you need to know about New York Fashion Week!
-<!DOCTYPE html>
+
 <html>
  
  <body>
